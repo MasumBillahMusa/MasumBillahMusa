@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MasumBillahMusa-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MasumBillahMusa)
 [![Facebook](https://img.shields.io/badge/Facebook-mdmasumbillah.bgd-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mdmasumbillah.bgd)
+[![X](https://img.shields.io/badge/X-@masumbillahmusa-000000?logo=x&logoColor=white)](https://x.com/masumbillahmusa)
 [![Website](https://img.shields.io/badge/Website-appcodera.com-111111?logo=googlechrome&logoColor=white)](https://appcodera.com)
 
 🌐 [appcodera.com](https://appcodera.com) · 🖥️ [sindabadhost.com](https://sindabadhost.com) · 🎙️ [velo.appcodera.com](https://velo.appcodera.com)
@@ -52,4 +53,4 @@
 ## Let's work together
 
 I'm open to building **web apps, mobile apps, admin dashboards and SaaS products**.
-Get in touch on **[LinkedIn](https://www.linkedin.com/in/MasumBillahMusa)**, **[Facebook](https://www.facebook.com/mdmasumbillah.bgd)** or through **[appcodera.com](https://appcodera.com)**.
+Get in touch on **[LinkedIn](https://www.linkedin.com/in/MasumBillahMusa)**, **[Facebook](https://www.facebook.com/mdmasumbillah.bgd)**, **[X](https://x.com/masumbillahmusa)** or through **[appcodera.com](https://appcodera.com)**.
